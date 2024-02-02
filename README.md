@@ -3,6 +3,12 @@
 
 ### In the realm of cybersecurity, grasping and taking advantage of server vulnerabilities is a vital aspect of securing networks and systems. SMTP (Simple Mail Transfer Protocol) serves as a fundamental communication protocol for transmitting electronic mail. This project delves into identifying and exploiting vulnerabilities within SMTP servers, specifically honing in on potential open relay configurations. Metasploit Framework Usage: We leverage the Metasploit Framework to conduct vulnerability assessments on SMTP servers. The chosen module, auxiliary/scanner/smtp/smtp_relay, is tailored to detect SMTP Open Relay vulnerabilities. An open relay misconfiguration could permit unauthorized users to utilize the server for sending emails, potentially resulting in misuse, spam, or even unauthorized access to sensitive information.
 
+
+\
+\
+<img src="https://raw.githubusercontent.com/Ozel0t-G/Identifying-and-capitalizing-on-vulnerabilities-in-server-systems/main/1706891892170cun7a71j.png"/>
+
+
 ### Key Steps:
 
 #### Getting Started:
